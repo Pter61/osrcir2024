@@ -1,3 +1,3 @@
 # OSrCIR
 
-The code will avaliable after publication
+The code and complete CoT prompt will be publicly available after our paper has been accepted.
