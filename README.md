@@ -1,10 +1,13 @@
 # OSrCIR
+
+![OSrCIR](OScCIR.jpg)
+
 <div align="justify">
 
 > Composed Image Retrieval (CIR) aims to retrieve target images that closely resemble a reference image while integrating user-specified textual modifications, thereby capturing user intent more precisely. This dual-modality approach is especially valuable in internet search and e-commerce, facilitating tasks like scene image search with object manipulation and product recommendations with attribute changes. Existing training-free zero-shot CIR (ZS-CIR) methods often employ a two-stage process: they first generate a caption for the reference image and then use Large Language Models for reasoning to obtain a target description. However, these methods suffer from missing critical visual details and limited reasoning capabilities, leading to suboptimal retrieval performance. To address these challenges, we propose a novel, training-free one-stage method, One-Stage Reflective Chain-of-Thought Reasoning for ZS-CIR (OSrCIR), which employs Multimodal Large Language Models to retain essential visual information in a single-stage reasoning process, eliminating the information loss seen in two-stage methods. Our Reflective Chain-of-Thought framework further improves interpretative accuracy by aligning manipulation intent with contextual cues from reference images. OSrCIR achieves performance gains of 1.80% to 6.44% over existing training-free methods across multiple tasks, setting new state-of-the-art results in ZS-CIR and enhancing its utility in vision-language applications. 
 
 </div>
-![OSrCIR](https://github.com/user-attachments/assets/f9d578cf-31b8-4da3-8707-b83c8d63dab9)
+
 
 ## Contribution
 1. **One-stage Reasoning**: Unlike traditional two-stage methods, OSrCIR directly processes both the reference image and modification text in a single step, reducing information loss and improving retrieval accuracy.
