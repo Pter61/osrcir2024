@@ -1,6 +1,6 @@
 # OSrCIR
 
-![OSrCIR](OScCIR.jpg)
+![OSrCIR](OSrCIR.jpg)
 
 <div align="justify">
 
