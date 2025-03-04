@@ -11,7 +11,7 @@
 
 ## Contribution
 1. **One-stage Reasoning**: Unlike traditional two-stage methods, OSrCIR directly processes both the reference image and modification text in a single step, reducing information loss and improving retrieval accuracy.
-2. **Reflective Chain-of-Thought for Enhanced Reasoning**: By leveraging MLLMs, OSrCIR better retains critical visual details, leading to more precise target image retrieval.
+2. **Reflective Chain-of-Thought for Enhanced Composed Retrieval**: By leveraging MLLMs, OSrCIR better retains critical visual details, leading to more precise target image retrieval.
 3. **Improved Interpretation Ability**: OSrCIR explicitly shows the alignment between modification intent and contextual cues from reference images, leading to more accurate and interpretable retrieval results.
 
 ## Status
