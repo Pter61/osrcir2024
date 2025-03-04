@@ -19,7 +19,7 @@ OSrCIR is a novel method for **Composed Image Retrieval (CIR)**, which finds tar
 Watch or star this repository to get notified about the release.
 
 ## Contact
-For questions or collaboration inquiries, reach out via [your email or GitHub Issues section].
+For questions or collaboration inquiries, reach out via tangyuanmin@iie.ac.cn.
 
 ## Citing
 
