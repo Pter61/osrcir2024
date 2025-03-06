@@ -5,7 +5,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
 [![GitHub Stars](https://img.shields.io/github/stars/Pter61/osrcir2024?style=social)](https://github.com/Pter61/osrcir2024)
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/reason-before-retrieve-one-stage-reflective/zero-shot-composed-image-retrieval-zs-cir-on-11)](https://paperswithcode.com/sota/zero-shot-composed-image-retrieval-zs-cir-on-11?p=reason-before-retrieve-one-stage-reflective) <br/>
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/reason-before-retrieve-one-stage-reflective/zero-shot-composed-image-retrieval-zs-cir-on-1)](https://paperswithcode.com/sota/zero-shot-composed-image-retrieval-zs-cir-on-1?p=reason-before-retrieve-one-stage-reflective) <br/>
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/reason-before-retrieve-one-stage-reflective/zero-shot-composed-image-retrieval-zs-cir-on-2)](https://paperswithcode.com/sota/zero-shot-composed-image-retrieval-zs-cir-on-2?p=reason-before-retrieve-one-stage-reflective) <br/>
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/reason-before-retrieve-one-stage-reflective/zero-shot-composed-image-retrieval-zs-cir-on)](https://paperswithcode.com/sota/zero-shot-composed-image-retrieval-zs-cir-on?p=reason-before-retrieve-one-stage-reflective) 
