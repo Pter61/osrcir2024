@@ -1,4 +1,12 @@
-# OSrCIR
+<div align="center">
+	
+# Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval (CVPR 2025)
+[![arXiv](https://img.shields.io/badge/arXiv-Context-I2W.svg?logo=arXiv)](https://arxiv.org/pdf/2412.11077)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
+[![GitHub Stars](https://img.shields.io/github/stars/Pter61/osrcir2024?style=social)](https://github.com/Pter61/osrcir2024)
+
+</div>
+
 
 ![OSrCIR](OSrCIR.jpg)
 
